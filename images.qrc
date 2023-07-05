@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>zoro.jpeg</file>
+        <file>sanji.jpeg</file>
+    </qresource>
+</RCC>
